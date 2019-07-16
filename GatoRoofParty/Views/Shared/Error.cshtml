@@ -1,0 +1,48 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+
+@{
+    ViewBag.Title = "Error";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=11;IE=Edge,chrome=1" />
+        <title>Gato Roof Party</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+
+    <body class="errPage">
+
+        <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Main -->
+            <section id="main">
+                <header>
+                    <div class="appbutton" style="font-family:'Courier New';">
+                        <h2 style="color:red;">Sorry, an error has occurred while processing this request.</h2>
+
+                        Please contact the <a href="mailto:info@gatoroofparty.com.mt">Administrator</a>, providing the exact details and steps taken to cause this error.
+                        <br />
+                        <a href="/Home">Back to Index</a>
+                    </div>
+                </header>
+            </section>
+
+        </div>
+        <script>
+                if ('addEventListener' in window) {
+                    window.addEventListener('load', function () { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+                    document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+                }
+        </script>
+    </body>
+</html>

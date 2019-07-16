@@ -1,0 +1,279 @@
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\ApplicationInsights.config
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\GatoRoofParty.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\GatoRoofParty.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\GatoRoofParty.pdb
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Antlr3.Runtime.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.Web.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Google.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Optimization.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\WebGrease.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.Web.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Optimization.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Antlr3.Runtime.pdb
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Google.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\obj\Debug\GatoRoofParty.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\obj\Debug\GatoRoofParty.dll
+c:\users\admin\documents\visual studio 2015\Projects\GatoRoofParty\GatoRoofParty\obj\Debug\GatoRoofParty.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\BusinessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\CommonLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\SendGrid.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\DataLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\BusinessLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\CommonLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty\GatoRoofParty\bin\DataLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\ApplicationInsights.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\csc.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\GatoRoofParty.dll.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\GatoRoofParty.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\GatoRoofParty.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\BusinessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\CommonLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Owin.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\SendGrid.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\DataLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\BusinessLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\CommonLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Optimization.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\bin\DataLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\obj\Debug\GatoRoofParty.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\obj\Debug\GatoRoofParty.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\GatoRoofParty\obj\Debug\GatoRoofParty.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\ApplicationInsights.config
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\csc.exe
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\vbc.exe
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\VBCSCompiler.exe
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\GatoRoofParty.dll.config
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\GatoRoofParty.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\GatoRoofParty.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Antlr3.Runtime.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\BusinessLayer.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\CommonLayer.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.SqlServer.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\itextsharp.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\itextsharp.xmlworker.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.Web.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Newtonsoft.Json.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Owin.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\SendGrid.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Net.Http.Formatting.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Helpers.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Mvc.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Optimization.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Razor.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\WebGrease.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\DataLayer.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\BusinessLayer.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\CommonLayer.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\itextsharp.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.Web.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Newtonsoft.Json.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Net.Http.Formatting.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Helpers.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Mvc.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Optimization.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.Razor.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Antlr3.Runtime.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\EntityFramework.SqlServer.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\bin\DataLayer.pdb
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\obj\Debug\GatoRoofParty.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\obj\Debug\GatoRoofParty.dll
+C:\Users\Julian\Documents\Visual Studio 2013\Projects\gatocomp\GatoRoofParty - Copy\GatoRoofParty\obj\Debug\GatoRoofParty.pdb

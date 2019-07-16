@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="partydbEntities-Web.config Connection String" description="partydbEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/GatoDBModel.csdl|res://*/GatoDBModel.ssdl|res://*/GatoDBModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=188.121.44.212;Initial Catalog=partydb;Integrated Security=False;Persist Security Info=True;User ID=gatoweb;Password=Dahhaln1;Connect Timeout=15;Encrypt=False;Packet Size=4096&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\admin\\Documents\\Visual\ Studio\ 2015\\Projects\\GatoRoofParty\ -\ Copy\\GatoRoofParty\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='partydbEntities']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\admin\\Documents\\Visual\ Studio\ 2015\\Projects\\GatoRoofParty\ -\ Copy\\GatoRoofParty\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="GatoRoofParty.Models.ApplicationDbContext-Web.config Connection String" description="GatoRoofParty.Models.ApplicationDbContext Connection String used in web.config by the application to access the database." defaultValue="GatoRoofParty.Models.ApplicationDbContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\admin\\Documents\\Visual\ Studio\ 2015\\Projects\\GatoRoofParty\ -\ Copy\\GatoRoofParty\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GatoRoofParty.Models.ApplicationDbContext']/@connectionString" />
+  </parameter>
+</parameters>

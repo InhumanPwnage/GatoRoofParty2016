@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="gatoroofparty.com.mt" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\admin\\Documents\\Visual\ Studio\ 2015\\Projects\\GatoRoofParty\ -\ Copy\\GatoRoofParty\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\admin\\Documents\\Visual\ Studio\ 2015\\Projects\\GatoRoofParty\ -\ Copy\\GatoRoofParty\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="DefaultConnection_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\admin\\Documents\\Visual\ Studio\ 2015\\Projects\\GatoRoofParty\ -\ Copy\\GatoRoofParty\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="partydbEntities-Web.config Connection String" description="" value="metadata=res://*/GatoDBModel.csdl|res://*/GatoDBModel.ssdl|res://*/GatoDBModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=ITANTIX201;initial catalog=partydb;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\admin\\Documents\\Visual\ Studio\ 2015\\Projects\\GatoRoofParty\ -\ Copy\\GatoRoofParty\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='partydbEntities']/@connectionString" />
+  </parameter>
+</parameters>

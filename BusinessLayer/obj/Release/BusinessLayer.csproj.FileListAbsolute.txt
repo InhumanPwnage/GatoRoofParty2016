@@ -1,0 +1,32 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\BusinessLayer.dll.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\CommonLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\DataLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\CommonLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\DataLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.pdb
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\BusinessLayer.dll.config
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\CommonLayer.dll
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\DataLayer.dll
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\CommonLayer.pdb
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\CommonLayer.dll.config
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\DataLayer.pdb
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\DataLayer.dll.config
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\julia\source\repos\GatoRoofParty - Copy\BusinessLayer\obj\Release\BusinessLayer.pdb

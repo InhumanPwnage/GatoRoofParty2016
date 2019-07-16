@@ -1,0 +1,127 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=11;IE=Edge,chrome=1" />
+        <title>Gato Roof Party - RSVP Mobile</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+        <script src="~/Scripts/dev/script.js"></script>
+
+    </head>
+    <body class="form">
+        <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Main -->
+            <section id="main">
+                <header>
+                    @using (Html.BeginForm("Rsvp", "Mobile", null, FormMethod.Post, new { @onsubmit = "return VerifyCredentials()", role = "form", action = "/Mobile/Rsvp" }))
+                    {
+                        <div id="Name_Err">
+                            @Html.Raw(TempData["name"])
+                        </div>
+                        <div class="field">
+                            <input type="text" class="form-control" name="namefield" id="party" placeholder="Name" pattern=".{3,}" title="3 characters minimum!" required/>
+                        </div>
+
+                        <div id="Surname_Err">
+                            @Html.Raw(TempData["surname"])
+                        </div>
+                        <div class="field">
+                            <input type="text" class="form-control" name="surnamefield" id="party" placeholder="Surname" pattern=".{3,}" title="3 characters minimum!" required/>
+                        </div>
+
+                        <div id="Email_Err">
+                            @Html.Raw(TempData["email"])
+                        </div>
+                        <div class="field">
+                            <input type="email" class="form-control" name="emailfield" id="party" placeholder="Email" required />
+                        </div>
+
+                        <div id="Date_of_Birth_Err">
+                            @Html.Raw(TempData["date"])
+                        </div>
+                        <div class="field">
+                            <input type="date" class="form-control" name="datefield" id="party" placeholder="Date of Birth" required />
+                        </div>
+
+                        <div class="field" style="color:#ffffff;">
+                            <input type="checkbox" name="checkfield" id="party" value="I accept the Terms & Conditions." title="You must agree to the Terms & Conditions!" required /> I accept the <a href="#" data-toggle="modal" data-target="#termsconditions">Terms & Conditions</a>.
+                        </div>
+
+                        <div id="Error_Err" style="color:red;font-weight:bold;">
+                            @Html.Raw(TempData["error"])
+                        </div>
+
+                        <div>
+                            <button type="submit"><img src="images/pg2/pg2_button.png" alt="" style="height:100%;"></button>
+                        </div>
+                    }
+                </header>
+            </section>
+        </div>
+
+
+        <script>
+			if ('addEventListener' in window) {
+				window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+				document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+			}
+        </script>
+
+        <div class="modal fade" id="termsconditions" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span aria-hidden="true">&times;</span>
+                            <span class="sr-only">Close</span>
+                        </button>
+                        <h4 class="modal-title">Terms & Conditions</h4>
+                    </div>
+                    <div class="modal-body" style="font-family:verdana; font-size:9pt;text-transform: none !important;letter-spacing: 0.05em;">
+                        <ol start="1">
+                            <li> Accepting these terms and conditions affirms your consent to submit any internet traffic related data.</li>
+
+                            <li>
+                                The ticket holder voluntarily assumes all risk and danger incidental to the event whether occurring prior to, during or subsequent to the actual event; including any death, personal injury, loss, damage or liability.
+                            </li>
+                            <li>
+                                Tickets are issued subject to the rules and regulations of the venue.
+                            </li>
+                            <li>
+                                The venue reserves the right to refuse admission and may on occasion have to conduct security searches to ensure the safety of the patrons.
+                            </li>
+                            <li>
+                                This event will be filmed and/or photographed. Attendance affirms your consent to be used as a member of the event audience.
+                            </li>
+                            <li>
+                                Event organizers reserve the right to change or amend the date or venue of the event, due to reasons beyond their control.
+                            </li>
+                            <li>
+                                Tickets are not permitted to be resold for profit or for commercial gain.
+                            </li>
+                            <li> Event organizers or venue owners do not accept responsibility for any property lost or damaged at the event and as a result cannot be held liable.</li>
+                        </ol>
+                    </div>
+                    <div class="modal-footer text-center">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Back to Submission Form</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+
+    </body>
+
+</html>

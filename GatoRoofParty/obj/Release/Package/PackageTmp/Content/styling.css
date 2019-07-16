@@ -1,0 +1,77 @@
+﻿body.index
+{
+	background-color: #dedede;
+	background-image: url("../../images/pg1.png");
+	background-size: cover;	
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
+		
+	body.form
+    {
+		background-color: #dedede;
+		background-image: url("../../images/pg2.png");
+        background-size: cover;	
+        
+    }
+
+.wrapper
+{
+    text-align: center;
+}
+
+.apply-button {
+    position:absolute;
+    top:90%;
+    left:50%;
+    background:url(/images/pg1_button.png);
+    padding-right: 0px;
+    height: 38px;
+    width: 150px;
+    padding-left: 0px;
+    background-size: contain;
+    max-width:100%;
+	border:0;
+    min-width:0%;
+    margin-right:-50%;
+    transform:translate(-50%,-50%);
+}
+
+	body.confirmation{
+		height: 100%;
+		background-color: #dedede;
+		background-image: url("../../images/pg3.png");
+		background-repeat: no-repeat;
+		background-size: cover;	
+		background-position: bottom center;
+		background-attachment: fixed;
+		}
+
+		body:after {
+			content: '';
+			display: block;
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: inherit;
+			opacity: 0;
+			z-index: 1;
+			background-color: #ffffff;
+			background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			
+			background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			background-repeat: repeat,			no-repeat;
+			background-size: 100px 100px, cover;
+			background-position: top left,		center center;
+			-moz-transition: opacity 1.75s ease-out;
+			-webkit-transition: opacity 1.75s ease-out;
+			
+			transition: opacity 1.75s ease-out;
+		}
+
+		body.is-loading:after {
+			opacity: 1;
+		}

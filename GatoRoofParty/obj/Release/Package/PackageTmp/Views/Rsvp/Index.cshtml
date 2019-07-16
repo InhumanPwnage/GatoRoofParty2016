@@ -1,0 +1,89 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=11;IE=Edge,chrome=1" />
+        <title>Gato Roof Party</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+        <!--<link rel="stylesheet" href="assets/css/main.css" />-->
+        <!--<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>-->
+        <link href="~/Content/styling.css" rel="stylesheet" />
+        <script src="~/Scripts/dev/script.js"></script>
+    </head>
+
+    <body class="form">
+
+        <!-- Wrapper -->
+        <div style="text-align:center;" class="rsvp-button">
+            <button class="btn btn-default" data-toggle="modal" data-target="#formcontents">RSVP</button>
+        </div>
+
+                         
+        <div class="modal fade" id="formcontents" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span aria-hidden="true">&times;</span>
+                            <span class="sr-only">Close</span>
+                        </button>
+                        <h4 class="modal-title">RSVP to Gato Roof Party 2016</h4>
+                    </div>
+                    @using (Html.BeginForm("Rsvp", "Mobile", null, FormMethod.Post, new { @onsubmit = "return VerifyCredentials()", role = "form", action = "/Mobile/Rsvp" }))
+                    {
+                        <div class="modal-body">
+                            <div id="Name_Err">
+                                @Html.Raw(TempData["name"])
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="namefield" id="party" placeholder="Name" />
+                            </div>
+
+                            <div id="Surname_Err">
+                                @Html.Raw(TempData["surname"])
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="surnamefield" id="party" placeholder="Surname" />
+                            </div>
+
+                            <div id="Email_Err">
+                                @Html.Raw(TempData["email"])
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" name="emailfield" id="party" placeholder="Email" />
+                            </div>
+
+                            <div id="Date_of_Birth_Err">
+                                @Html.Raw(TempData["date"])
+                            </div>
+                            <div class="form-group">
+                                <input type="date" class="form-control" name="datefield" id="party" placeholder="Date of Birth" />
+                            </div>
+
+                            <div id="Error_Err" style="color:red;font-weight:bold;">
+                                @Html.Raw(TempData["error"])
+                            </div>
+                        </div>
+                        <div class="modal-footer text-center">
+                            <button type="reset" class="btn btn-info">Reset</button>
+                            <button type="button" class="btn btn-primary" onclick="return false" data-dismiss="modal">Back</button>
+                            <button type="submit" class="btn btn-success">RSVP</button>
+                        </div>
+                    }
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+
+
+        
+    </body>
+
+</html>

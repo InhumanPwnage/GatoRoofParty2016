@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="partydbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="partydbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="partydbModel.User" />
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="InvitationNumber" />
+    </Key>
+    <Property Name="InvitationNumber" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="DoB" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Verified" Type="Boolean" Nullable="false" />
+    <Property Name="Code" Type="Guid" Nullable="false" />
+    <Property Name="Surname" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="IPAddress" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="TimeSubmitted" Type="DateTime" Precision="3" />
+    <Property Name="TimeVerified" Type="DateTime" Precision="3" />
+    <Property Name="TicketCode" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+</Schema>
